@@ -1,0 +1,27 @@
+{
+  "name": "hash",
+  "description": "Hash algorythm information",
+  "author": "Justin Zaun <justn.zaun@gmail.comcom>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaun/hash"
+  },
+  "dependencies": {
+    "js-md2": "0.2.2",
+    "js-md4": "0.3.2",
+    "js-md5": "0.4.2",
+    "jshashes": "1.0.6",
+    "lodash": "4.17.4",
+    "mhash": "2.1.6",
+    "node-md6": "0.1.0",
+    "require-dir": "0.3.2",
+    "ripemd160": "2.0.1",
+    "stats-lite": "2.0.4"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-eslint": "*",
+    "gulp-load-plugins": "*"
+  },
+  "license": "MIT"
+}
